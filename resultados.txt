@@ -1,0 +1,3 @@
+openjdk21 (sin virtual threads) =>  Execution time mean : 9,187424 sec
+graalvm21 (sin virtual threads) => Execution time mean : 7,670938 sec
+babashka script => Execution time mean : 4020.739858333333 msecs
